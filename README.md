@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Minhaz-alom
-- 👀 I’m interested in Bouilding Software & Web.
+- 👀 I’m interested in Building Software & Web.
 - 🌱 I’m currently learning Cascading style sheets
 - 📫 How to reach me. Email: minhazalom15@gmail.com
 
