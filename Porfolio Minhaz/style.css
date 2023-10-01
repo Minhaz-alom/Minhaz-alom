@@ -1,0 +1,20 @@
+body{
+  font-family: 'Cabin', sans-serif;
+}
+
+
+.half-width{
+  width: 40%;
+  float:left;
+}
+h1{
+font-size: 30px;
+font-weight:bolder;
+
+}
+
+.blue-highlight{
+  color: blue;
+}
+
+img{ height: 400px;}
